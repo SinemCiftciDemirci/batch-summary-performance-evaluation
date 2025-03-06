@@ -1,4 +1,4 @@
-# 📈 Model Summary Performance Evaluation
+# 📈 Batch Summary Performance Evaluation
 
 This project evaluates and compares text summarization models' performance using **ROUGE** and **BERTScore** metrics. It systematically analyzes multiple summaries, compares them against reference summaries (GPT-generated and Cosine Similarity-based), and exports detailed performance metrics to an Excel file.
 
